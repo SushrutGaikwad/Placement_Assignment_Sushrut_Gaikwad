@@ -166,3 +166,6 @@ cython_debug/
 
 # Folders
 Images/
+
+# CSV files
+Question_05_rideshare_kaggle.csv
